@@ -1,0 +1,31 @@
+
+.nav {
+  text-align: center;
+  padding-top: 20px;
+  background-color: rgba(223, 227, 227, 0.709);
+  height: 6vh;;
+}
+
+.nav header {
+  display: inline;
+  margin: 0 15px;
+}
+
+.dog-list {
+  text-align: center;
+
+}
+
+.dog-details-container{
+  text-align: center;
+
+
+}
+
+h1{
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
